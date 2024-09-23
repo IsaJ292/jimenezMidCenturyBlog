@@ -1,0 +1,38 @@
+body{
+    background-color:#F29A4E ;
+    font-family:'Josefin Sans';
+    font-family: 'Lato';
+}
+p{
+    font-size: 15px;
+    font-family: 'Lato';
+    
+}
+a{
+    color:#047F8C;
+    font-size: 16px;
+    font-family: 'Josefin Sans';
+}
+nav{
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 170px;
+    font-family: 'Josefin Sans';
+}
+h1{
+    font-size: 37px;
+    font-family: 'Josefin Sans';
+    text-transform: uppercase;
+    color: #3a400c;
+    text-align: center;
+}
+h2{
+    font-size: 22.5px;
+    font-family: 'Lato';
+}
+h3{
+    color:#047F8C
+}
+footer{
+    text-align: center;
+}
